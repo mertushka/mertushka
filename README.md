@@ -4,7 +4,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Bicepsfako, Computer Engineer & Software Developer from Turkey
+  Hi, I'm Bicepsfako, High School Student from Turkey
   <br>
   <br>
   💻 I love writing code and learn anythings about it
