@@ -1,10 +1,10 @@
-<h3 align="center">Hello there, I'm Bicepsfako 👋</h3>
+<h3 align="center">Hello there, I'm Mert 👋</h3>
 <h5 align="center">
-  <code><a href="https://www.instagram.com/merdcimkee/" title="Instagram Profile"><img width="22" src="/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/mertushka/" title="Instagram Profile"><img width="22" src="/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Bicepsfako, High School Student from Turkey
+  Hi, I'm Mert, High School Student from Turkey
   <br>
   <br>
   💻 I love writing code and learn anythings about it
@@ -13,7 +13,7 @@
   <br>
   💬 Ask me anything about from <a href="/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: bicepsfako@gmail.com">bicepsfako@gmail.com</a>
+  📫 How to reach me: <a href="mailto: mertushkaonline@gmail.com">mertushkaonline@gmail.com</a>
 </p>
 
 <hr>
@@ -40,13 +40,13 @@
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Bicepsfako&show_icons=true&theme=gotham">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mertushka&show_icons=true&theme=gotham">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bicepsfako&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertushka&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
 
 <hr>
 <br>
-<h4 align="center"><a href=https://github.com/Bicepsfako?tab=repositories" title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/mertushka?tab=repositories" title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>
