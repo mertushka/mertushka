@@ -2,6 +2,9 @@
 <h5 align="center">
   <code><a href="https://www.instagram.com/mertushka/" title="Instagram Profile"><img width="22" src="/images/instagram.svg"> Instagram</a></code>
 </h5>
+<div align="center">
+  <a href="https://discord.com/users/745038831472083065" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/745038831472083065"></a>
+</div>
 <br>
 <p align="center">
   Hi, I'm Mert, High School Student from Turkey
