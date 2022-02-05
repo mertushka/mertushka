@@ -1,9 +1,9 @@
 <h3 align="center">Hello there, I'm Mert 👋</h3>
 <h5 align="center">
-  <code><a href="https://www.instagram.com/mertushka/" title="Instagram Profile"><img width="22" src="/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://mertushka.me">Personal Website</a></code>
 </h5>
 <div align="center">
-  <a href="https://discord.com/users/745038831472083065" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/745038831472083065"></a>
+  <a href="https://discord.com/users/937430365230989352" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/937430365230989352"></a>
 </div>
 <br>
 <p align="center">
@@ -16,7 +16,7 @@
   <br>
   💬 Ask me anything about from <a href="/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: mertushkaonline@gmail.com">mertushkaonline@gmail.com</a>
+  📫 How to reach me: <a href="mailto: mertushka@protonmail.com">mertushka@protonmail.com</a>
 </p>
 
 <hr>
