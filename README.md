@@ -1,6 +1,6 @@
 <h3 align="center">Hello there, I'm Mert 👋</h3>
 <h5 align="center">
-  <code><a href="https://mertushka.me">Personal Website</a></code>
+  <code><a href="https://mertushka.codes">Personal Website</a></code>
 </h5>
 <div align="center">
   <a href="https://discord.com/users/963467332812939285" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/940131816692674591"></a>
