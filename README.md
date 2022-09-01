@@ -3,7 +3,7 @@
   <code><a href="https://mertushka.me">Personal Website</a></code>
 </h5>
 <div align="center">
-  <a href="https://discord.com/users/963467332812939285" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/963467332812939285"></a>
+  <a href="https://discord.com/users/963467332812939285" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/940131816692674591"></a>
 </div>
 <br>
 <p align="center">
@@ -12,7 +12,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning TypeScript
+  📚 I’m currently learning Flutter
   <br>
   💬 Ask me anything about from <a href="/issues" title="Issues">Here</a>
   <br>
