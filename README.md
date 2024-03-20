@@ -1,6 +1,6 @@
 <h3 align="center">Hello there, I'm Mert 👋</h3>
 <h5 align="center">
-  <code><a href="https://mertushka.tech">Personal Website</a></code>
+  <code><a href="https://mertushka.pw">Personal Website</a></code>
 </h5>
 <br>
 <p align="center">
